@@ -574,6 +574,7 @@ button:focus,
     position:relative;
     right:0%;
     top:10px;
+    bottom:10px;
     width:100%;
     height:auto;
 }    
