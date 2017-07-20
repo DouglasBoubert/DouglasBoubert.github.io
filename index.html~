@@ -275,6 +275,10 @@
                     <h3>Hypervelocity stars</h3>
                     <img src="img/portfolio-1.jpg" alt="" class="projectimg">
                     <p>The stand-out accomplishment of my PhD was to explain the origin of the fastest stars in the Galaxy. These two dozen young, hot stars in the outskirts of the Milky Way are the only main sequence stars travelling fast enough to escape the Milky Way. Despite the Northern hemisphere having been searched thoroughly for these stars they have only been found at the very edge of the searched region in the constellation of Leo. Previous work has argued that these stars come from interactions of binary stars with the massive black hole at the centre of the Milky Way, but this has not been able to explain their peculiar anisotropic distribution on the sky. I have published two papers where I argue that these stars originate in the Large Magellanic Cloud, a dwarf galaxy that is flying past our own Galaxy.</p>
+                    
+                    <p>Boubert, D., & Evans, N. W. 2016, ApJ, 825, L6</p>
+                    
+                    <p>Boubert, D., Erkal, D., Evans, N. W., & Izzard, R. G. 2017, MNRAS, 469, 2151</p>
                 </div>
                 <div class="content-item">
                     <h3>Runaway stars</h3>
@@ -296,79 +300,6 @@
     </div>
 </section>
 <!-- .section-publications -->
-
-<section class="section-wrapper portfolio-section">
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-md-12">
-                <div class="section-title">
-                    <h2>Portfolio</h2>
-                </div>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-md-6">
-                <a class="portfolio-item" href="#">
-                    <div class="portfolio-thumb">
-                        <img src="img/portfolio-1.jpg" alt="">
-                    </div>
-
-                    <div class="portfolio-info">
-                        <h3>Creative concepts</h3>
-                        <small>domain.com</small>
-                    </div>
-                    <!-- portfolio-info -->
-                </a>
-                <!-- .portfolio-item -->
-            </div>
-            <div class="col-md-6">
-                <a class="portfolio-item" href="#">
-                    <div class="portfolio-thumb">
-                        <img src="img/portfolio-2.jpg" alt="">
-                    </div>
-
-                    <div class="portfolio-info">
-                        <h3>Customer focused</h3>
-                        <small>domain.com</small>
-                    </div>
-                    <!-- portfolio-info -->
-                </a>
-                <!-- .portfolio-item -->
-            </div>
-            <div class="col-md-6">
-                <a class="portfolio-item" href="#">
-                    <div class="portfolio-thumb">
-                        <img src="img/portfolio-3.jpg" alt="">
-                    </div>
-
-                    <div class="portfolio-info">
-                        <h3>Management methodology</h3>
-                        <small>domain.com</small>
-                    </div>
-                    <!-- portfolio-info -->
-                </a>
-                <!-- .portfolio-item -->
-            </div>
-            <div class="col-md-6">
-                <a class="portfolio-item" href="#">
-                    <div class="portfolio-thumb">
-                        <img src="img/portfolio-4.jpg" alt="">
-                    </div>
-
-                    <div class="portfolio-info">
-                        <h3>Market research</h3>
-                        <small>domain.com</small>
-                    </div>
-                    <!-- portfolio-info -->
-                </a>
-                <!-- .portfolio-item -->
-            </div>
-
-        </div>
-        <!-- /.row -->
-    </div>
-</section>
-<!-- .portfolio -->
 
 <section class="section-contact section-wrapper gray-bg">
     <div class="container-fluid">
