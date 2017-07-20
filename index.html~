@@ -273,7 +273,7 @@
             <div class="col-md-12">
                 <div class="content-item">
                     <h3>Hypervelocity stars</h3>
-                    <img src="img/portfolio-1.jpg" alt="" class="projectimg">
+                    <img src="img/hypervelocity.png" alt="" class="projectimg">
                     
                     <p>The stand-out accomplishment of my PhD was to explain the origin of the fastest stars in the Galaxy. These two dozen young, hot stars in the outskirts of the Milky Way are the only main sequence stars travelling fast enough to escape the Milky Way. Despite the Northern hemisphere having been searched thoroughly for these stars they have only been found at the very edge of the searched region in the constellation of Leo. Previous work has argued that these stars come from interactions of binary stars with the massive black hole at the centre of the Milky Way, but this has not been able to explain their peculiar anisotropic distribution on the sky. I have published two papers in collaboration with Wyn Evans, Denis Erkal and Robert Izzard where we argue that these stars originate in the Large Magellanic Cloud, a dwarf galaxy that is flying past our own Galaxy.</p>
                     
@@ -283,6 +283,7 @@
                 </div>
                 <div class="content-item">
                     <h3>Runaway stars</h3>
+                    <img src="img/runaway.png" alt="" class="projectimg">
 
                     <p>We searched ten nearby supernova remnants for a runaway former companion of the supernova progenitor. While we are not the first to conduct such a search, we are the first to use a fully Bayesian method which self-consistently includes \emph{TGAS} stellar kinematics and photometry with the Green et al. (2015) dust-map, a binary evolution driven prior for the properties of runaway stars and the uncertainties in the distance and age of the supernova remnant itself. We found three new candidates and strongly confirmed one previously known candidate. One of our new candidates is a Be star which adds evidence to its candidacy.</p>
                     
