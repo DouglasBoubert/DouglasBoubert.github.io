@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <title>Online CV - Professional HTML CSS Resume Website Template</title>
+    <title>Douglas Boubert</title>
 
     <!-- favicon -->
     <link href="favicon.png" rel=icon>
@@ -70,7 +70,7 @@
             </div>
             <div class="col-md-12">
                 <p>
-                    I am astrophysics PhD student at the Institute of Astronomy in the University of Cambridge. My work lies in the intersection of Galactic dynamics and binary star evolution. Since the first Gaia data release I have focussed on applying Bayesian inference to this overlap.
+                    I am astrophysics PhD student at the Institute of Astronomy in the University of Cambridge. My work lies in the intersection of Galactic dynamics and binary star evolution. Since the first Gaia data release I have focussed on applying Bayesian inference to this overlap. I will be applying for post-doctoral positions in the 2017/18 cycle.
                 </p>
             </div>
         </div>
