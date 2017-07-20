@@ -276,9 +276,9 @@
                     <img src="img/portfolio-1.jpg" alt="" class="projectimg">
                     <p>The stand-out accomplishment of my PhD was to explain the origin of the fastest stars in the Galaxy. These two dozen young, hot stars in the outskirts of the Milky Way are the only main sequence stars travelling fast enough to escape the Milky Way. Despite the Northern hemisphere having been searched thoroughly for these stars they have only been found at the very edge of the searched region in the constellation of Leo. Previous work has argued that these stars come from interactions of binary stars with the massive black hole at the centre of the Milky Way, but this has not been able to explain their peculiar anisotropic distribution on the sky. I have published two papers where I argue that these stars originate in the Large Magellanic Cloud, a dwarf galaxy that is flying past our own Galaxy.</p>
                     
-                    <p>Boubert, D., & Evans, N. W. 2016, ApJ, 825, L6</p>
+                    <p href="http://adsabs.harvard.edu/abs/2016ApJ...825L...6B">Boubert, D., & Evans, N. W. 2016, ApJ, 825, L6</p>
                     
-                    <p>Boubert, D., Erkal, D., Evans, N. W., & Izzard, R. G. 2017, MNRAS, 469, 2151</p>
+                    <p href="http://adsabs.harvard.edu/abs/2017MNRAS.469.2151B">Boubert, D., Erkal, D., Evans, N. W., & Izzard, R. G. 2017, MNRAS, 469, 2151</p>
                 </div>
                 <div class="content-item">
                     <h3>Runaway stars</h3>
