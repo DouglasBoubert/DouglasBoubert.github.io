@@ -278,7 +278,7 @@ button:focus,
             -30deg,
             rgba(42, 84, 245, 0.5) 0%,
             rgba(42, 84, 245, 0.5) 40%,
-            transparent 40%,
+            transparent 80%,
             transparent 100%
     );
 
