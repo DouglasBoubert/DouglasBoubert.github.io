@@ -572,8 +572,8 @@ button:focus,
     
 .projectimg {
     position:relative;
-    right:10%;
-    top:0px;
+    right:20%;
+    top:10px;
     width:80%;
     height:auto;
 }    
